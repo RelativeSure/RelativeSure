@@ -3,3 +3,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RelativeSure&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RelativeSure&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RelativeSure&theme=nord_dark)
+
+# Follow me on Mastodon
+<a rel="me" href="https://infosec.exchange/@relativesure">Mastodon</a>
