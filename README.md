@@ -6,3 +6,6 @@
 
 # Follow me on Mastodon
 <a rel="me" href="https://infosec.exchange/@relativesure">Mastodon</a>
+
+# TryHackMe
+![tryhackme stats](https://raw.githubusercontent.com/RelativeSure/RelativeSure/master/assets/thm_propic.png)
