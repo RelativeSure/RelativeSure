@@ -1,3 +1,5 @@
+![](metrics.terminal.svg)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RelativeSure&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RelativeSure&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RelativeSure&theme=nord_dark)
