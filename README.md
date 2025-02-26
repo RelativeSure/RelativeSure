@@ -1,9 +1,9 @@
 # RelativeSure
 
 ## 🔗 Links
-![My website](https://img.shields.io/website?url=https%3A%2F%2Frasmusj.dk&style=for-the-badge&logo=astro&link=https%3A%2F%2Frasmusj.dk)
+[![My website](https://img.shields.io/website?url=https%3A%2F%2Frasmusj.dk&style=for-the-badge&logo=astro&link=https%3A%2F%2Frasmusj.dk)](https://rasmusj.dk)
 
-![Static Badge](https://img.shields.io/badge/GH-KubeArchitect-Organization?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Forgs%2FKubeArchitect%2Frepositories)
+[![Static Badge](https://img.shields.io/badge/GH-KubeArchitect-Organization?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Forgs%2FKubeArchitect%2Frepositories)](https://github.com/orgs/KubeArchitect/repositories)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmusbroeggerjoergensen/)
 
