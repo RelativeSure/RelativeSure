@@ -16,11 +16,8 @@ I'm curious about discovering new tools on GitHub and staying up to date with em
 | Personal Starlight Site | Monorepo with different websites | https://github.com/RelativeSure/websites |
 | IaC using Terraform | Kubernetes Infrastructure as Code using Terraform and Ansible | https://github.com/RelativeSure/terraform-infra |
 
-## Focus
-Fedora packaging, Docker images, CI tooling, and documentation sites.
-
 ## Collaboration
-Open to contributions and feedback on the CircleCI Megalinter orb.
+Open to contributions and feedback on the CircleCI Megalinter orb. Always feel free to reach out to me on <https://rasmusj.dk/docs/contact>
 
 ## Links
 [![My website](https://img.shields.io/website?url=https%3A%2F%2Frasmusj.dk&style=for-the-badge&logo=astro&link=https%3A%2F%2Frasmusj.dk)](https://rasmusj.dk)
