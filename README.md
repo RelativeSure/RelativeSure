@@ -13,8 +13,7 @@ I'm curious about discovering new tools on GitHub and staying up to date with em
 | Autocopr | Copr repo for Fedora | https://github.com/RelativeSure/autocopr |
 | Build Docker Images | Custom Docker image builds | https://github.com/KubeArchitect/build-docker-images |
 | CircleCI Megalinter Orb | CircleCI orb for Megalinter | https://github.com/KubeArchitect/circleci-megalinter-orb |
-| Personal Starlight Site | Monorepo with different websites | https://github.com/RelativeSure/websites |
-| IaC using Terraform | Kubernetes Infrastructure as Code using Terraform and Ansible | https://github.com/RelativeSure/terraform-infra |
+| Personal Monorepo Site | Monorepo with different websites | https://github.com/RelativeSure/websites |
 
 ## Collaboration
 Open to contributions and feedback on the CircleCI Megalinter orb. Always feel free to reach out to me on <https://rasmusj.dk/docs/contact>
@@ -25,6 +24,14 @@ Open to contributions and feedback on the CircleCI Megalinter orb. Always feel f
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmusbroeggerjoergensen/)
 
 ## Badges
+
+<a href="https://astrona.io/u/rasmus">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://astrona.io/u/rasmus/card.svg?theme=dark&size=wide">
+    <img alt="Rasmus on Astrona" src="https://astrona.io/u/rasmus/card.svg?theme=light&size=wide">
+  </picture>
+</a>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RelativeSure&theme=nord_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RelativeSure&theme=nord_dark)
