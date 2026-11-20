@@ -25,6 +25,13 @@ Open to contributions and feedback on the CircleCI Megalinter orb. Always feel f
 
 ## Badges
 
+<a href="https://certdirectory.io/profile/rasmus?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/rasmus.svg?style=card&theme=dark">
+    <img alt="Rasmus on CertDirectory" src="https://certdirectory.io/badge/rasmus.svg?style=card">
+  </picture>
+</a>
+
 <a href="https://astrona.io/u/rasmus">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://astrona.io/u/rasmus/card.svg?theme=dark&size=wide">
